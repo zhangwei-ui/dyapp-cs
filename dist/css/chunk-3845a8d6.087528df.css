@@ -1,0 +1,1 @@
+.tab-bar{height:49px;line-height:49px;width:100%;background-color:#000;position:fixed;bottom:0;right:0;left:0;color:#ccc;font-size:16px;display:flex;z-index:99}.item{flex-grow:1;text-align:center}.active{color:#fff}.tab-bar>img{padding:2.5px}

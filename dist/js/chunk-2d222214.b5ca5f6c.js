@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d222214"],{ccfd:function(n,t,c){"use strict";c.r(t);var e=function(){var n=this,t=n.$createElement,c=n._self._c||t;return c("div",{staticClass:"follow"},[n._v(" 同城页 ")])},l=[],s={},u=s,a=c("2877"),o=Object(a["a"])(u,e,l,!1,null,null,null);t["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d222214.b5ca5f6c.js.map
